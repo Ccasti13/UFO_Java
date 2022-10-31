@@ -10,6 +10,7 @@ The team was presented with a webpage that would allow you Truth Seekers to filt
 ## Results
 This new page will take inputs given to the criteria table shown below, and create a table for results.
 (see pdf for example images)
+
 Below is a trial search, when inputting the city of El Cajon, a table was created.
 (see pdf for example images)
 
